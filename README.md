@@ -1,6 +1,6 @@
 Pysometric
 
-This is simply a git hub for us to mess around with pygame and tiled in an attempt to make an isometric game.
+This is simply a git hub for us to mess around with pygame and tiled in an attempt to make an isometric game. Our first hurdle will more than likely be implementing an isometric renderer for pygame.
 
 some relevant sites for now:
 
